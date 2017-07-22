@@ -27,7 +27,7 @@ textarea{
 	border-left: 1px;
 	border-right: 1px;
 	background: white;
-	height: 100px;
+	height: 400px;
 	width: 70vw;
 	position: relative;
 	top: 5vh;
@@ -35,4 +35,5 @@ textarea{
 }
 .status-title{
 	text-align: center;
+	text-decoration: underline;
 }
