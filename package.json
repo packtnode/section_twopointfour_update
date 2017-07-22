@@ -1,0 +1,16 @@
+{
+  "name": "section_twopointfour_update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammad hunan chughtai/packt publishing",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "file-system": "^2.2.2"
+  }
+}
